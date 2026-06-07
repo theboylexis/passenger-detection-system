@@ -112,5 +112,5 @@ Press any switch button to simulate a passenger boarding. The Serial Monitor pri
 
 ## Author
 
-**Alex Marfo Appiah** — [@theboylexis](https://github.com/theboylexis)
+**Alex Marfo Appiah**
 ````
